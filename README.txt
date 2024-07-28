@@ -1,0 +1,1 @@
+Bu Python Scripti Kali Linux için geçerlidir. 22. satırdaki iface= değerini değiştirerek diğer işletim sistemlerinde kullanabilirsiniz.
